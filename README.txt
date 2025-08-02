@@ -1,4 +1,4 @@
-# LICENSE
+LICENSE
 Author: Wh33zy
 Date: 2025
 
