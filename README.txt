@@ -1,9 +1,8 @@
 # LICENSE
 Author: Wh33zy
-Name: In The Heart Of The Pale Garden - new model for Creaking
 Date: 2025
 
-Universal custom license for all my Minecraft resource packs. All resource packs created by me are licensed under the following terms:
+All work created by me are licensed under the following terms:
 
 Terms of Use:
 - You may use this resource pack for personal use and in recordings/posts on social media (please credit the author).
