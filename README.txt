@@ -12,3 +12,4 @@ Terms of Use:
 
 If you want to use this pack in any other way, please contact me:
 - website: https://www.planetminecraft.com/member/wh33zy/
+- discord: wh33zy.br33zy
